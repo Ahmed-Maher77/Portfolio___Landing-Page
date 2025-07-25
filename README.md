@@ -8,6 +8,6 @@ Portfolio Landing Page using HTML, CSS, and JavaScript
 ---
 
 ## 👀 Website Preview:
-<a href="[website-url](https://ahmed-maher77.github.io/Portfolio___Landing-Page/)" title="demo">
-  <img src="https://github.com/user-attachments/assets/7dacc256-28c2-4a3f-935d-b65c307d45c5" alt="website preview" width="400">
+<a href="https://ahmed-maher77.github.io/Portfolio___Landing-Page/" title="demo">
+  <img src="https://github.com/user-attachments/assets/09cbf078-05f2-4f9b-a5ae-99933be4e7d7" alt="website preview - UI Mockup" width="400">
 </a>
