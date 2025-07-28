@@ -1,5 +1,5 @@
 # Portfolio - Landing Page
-Portfolio Landing Page using HTML, CSS, Bootstrap, and JavaScript
+Portfolio Landing Page using HTML, CSS, and JavaScript
 
 ---
 
